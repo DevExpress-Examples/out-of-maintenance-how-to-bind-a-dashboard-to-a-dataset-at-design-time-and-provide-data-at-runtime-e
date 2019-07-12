@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # How to bind a dashboard to a DataSet at design time and provide data at runtime
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e5160)**
+**[[Run Online]](https://codecentral.devexpress.com/e5160/)**
 <!-- run online end -->
 
 
